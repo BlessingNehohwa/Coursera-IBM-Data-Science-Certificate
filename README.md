@@ -4,6 +4,6 @@ I embarked on a realistic data science journey with this capstone course and dem
 
 **Click**: [<b>IBM Capstone Project Files Folder</b>](https://github.com/BlessingNehohwa/Coursera-IBM-Data-Science-Certificate/tree/main/IBM%20data%20Science%20Capstone)
 
-https://github.com/BlessingNehohwa/Coursera-IBM-Data-Science-Certificate/blob/main/IBM%20data%20Science%20Capstone/Machine%20Learning%20Prediction.ipynb
+
 
 [<b>Falcon 9 Space X Prediction</b>](https://github.com/BlessingNehohwa/Coursera-IBM-Data-Science-Certificate/tree/main/IBM%20data%20Science%20Capstone)
